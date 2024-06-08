@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="036c293b-82a1-4553-824e-d409584d7225" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hVz21HOJ5mZw8de4qx6xqxkwlg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddEmployee.executor": "Run",
+    "Application.AddRoom.executor": "Run",
+    "Application.Admin.executor": "Run",
+    "Application.AdminPanel.Atlantis.executor": "Run",
+    "Application.Atlantis.executor": "Run",
+    "Application.AtlantisThePalm.executor": "Run",
+    "Application.AtlantisTheRoyal.executor": "Run",
+    "Application.BookedRooms.executor": "Run",
+    "Application.BookingRooms.executor": "Run",
+    "Application.PalmAdminLogin.executor": "Run",
+    "Application.PalmReceptionLogin.executor": "Run",
+    "Application.Reception.executor": "Run",
+    "Application.RoyalAdminLogin.executor": "Run",
+    "Application.RoyalReceptionLogin.executor": "Run",
+    "Application.ThePalm.executor": "Run",
+    "Application.ThePalmLogin.executor": "Run",
+    "Application.TheRoyal.executor": "Run",
+    "Application.TheRoyalLogin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anasn/OneDrive/Desktop/6th Semester/Software Construction and Development/Project/Atlantis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BookedRooms">
+    <configuration name="Atlantis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPanel.Atlantis" />
+      <module name="Atlantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookedRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPanel.BookedRooms" />
+      <module name="Atlantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPanel.BookingRooms" />
+      <module name="Atlantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPanel.Reception" />
+      <module name="Atlantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThePalm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPanel.ThePalm" />
+      <module name="Atlantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookedRooms" />
+        <item itemvalue="Application.BookingRooms" />
+        <item itemvalue="Application.Atlantis" />
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.ThePalm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="036c293b-82a1-4553-824e-d409584d7225" name="Changes" comment="" />
+      <created>1717693828041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717693828041</updated>
+      <workItem from="1717693828724" duration="179000" />
+      <workItem from="1717694033014" duration="2714000" />
+      <workItem from="1717699817379" duration="674000" />
+      <workItem from="1717700533810" duration="205000" />
+      <workItem from="1717700771697" duration="609000" />
+      <workItem from="1717741695524" duration="8025000" />
+      <workItem from="1717823260401" duration="2704000" />
+      <workItem from="1717827395497" duration="15773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
