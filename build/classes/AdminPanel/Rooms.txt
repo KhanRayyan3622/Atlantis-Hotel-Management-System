@@ -1,0 +1,18 @@
+101
+Available
+Cleaned
+1000
+Double BED
+
+300
+Occupaied
+Dirty
+352552525252
+Single BED
+
+300
+Available
+Cleaned
+1000
+Single BED
+
